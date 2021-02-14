@@ -1,0 +1,25 @@
+{
+  "name": "js_jwt",
+  "version": "1.0.0",
+  "description": "Having a go at creating auth in JS using JET, Node and Mongo DB. Lets see how it goes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeoke/JS_JWT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeoke/JS_JWT/issues"
+  },
+  "homepage": "https://github.com/adeoke/JS_JWT#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
